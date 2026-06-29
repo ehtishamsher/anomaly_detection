@@ -11,15 +11,21 @@ A practical implementation of **DBSCAN (Density-Based Spatial Clustering of Appl
 
 ## 📌 Table of Contents
 
-- [Overview](#-overview)
-- [How DBSCAN Works](#-how-dbscan-works)
-- [Dataset](#-dataset)
-- [What's Covered](#-whats-covered)
-- [Results](#-results)
-- [Tech Stack](#-tech-stack)
-- [How to Run](#-how-to-run)
-- [Key Parameters](#-key-parameters)
-- [DBSCAN vs Isolation Forest](#-dbscan-vs-isolation-forest)
+- [🔵 Anomaly Detection Using DBSCAN Clustering](#-anomaly-detection-using-dbscan-clustering)
+  - [📌 Table of Contents](#-table-of-contents)
+  - [🌍 Overview](#-overview)
+  - [🧠 How DBSCAN Works](#-how-dbscan-works)
+  - [📊 Dataset](#-dataset)
+  - [✅ What's Covered](#-whats-covered)
+  - [📈 Results](#-results)
+  - [🛠️ Tech Stack](#️-tech-stack)
+  - [🚀 How to Run](#-how-to-run)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Download the dataset](#2-download-the-dataset)
+    - [3. Install dependencies](#3-install-dependencies)
+    - [4. Run the notebook](#4-run-the-notebook)
+  - [⚙️ Key Parameters](#️-key-parameters)
+  - [⚖️ DBSCAN vs Isolation Forest](#️-dbscan-vs-isolation-forest)
 
 ---
 
@@ -154,11 +160,5 @@ jupyter notebook DBSCAN_clustering_anomaly_detection.ipynb
 
 ---
 
-## 🔗 Related Notebooks
 
-- [Isolation Forest Anomaly Detection](../Isolation_Forest/)
-- [Local Outlier Factor Detection](../LOF/) _(coming soon)_
 
----
-
-_Part of the Anomaly Detection series — comparing unsupervised methods for fraud detection._
